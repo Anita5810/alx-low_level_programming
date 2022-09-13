@@ -4,7 +4,7 @@
  * in ascending order, seperated by comma followed by a space
  *
  * Return: Always 0.
- * /
+ */
  
       int main(void)
      {
