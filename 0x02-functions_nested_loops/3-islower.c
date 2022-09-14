@@ -11,7 +11,7 @@ Return: returns 1 if 'c' is lowercase
 
 int_islower(int c)
 {
-	if (c >= 97 &7 c<= 122)
+	if (c >= 97 && c <= 122)
 		return (1);
 	       return (0);
 }
