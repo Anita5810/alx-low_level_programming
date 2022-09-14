@@ -3,6 +3,7 @@
 /**
  * print_alphabet_10 - function that will print alphabet 10 times
  *
+ * Return: x10 a-z
  */
 
 void print_alphabet_10(void)
