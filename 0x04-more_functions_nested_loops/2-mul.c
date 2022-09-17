@@ -1,16 +1,12 @@
 #include "main.h"
 
-
 /**
- * main - check the code for Holberton School students.
- *
- * Return: Always 0.
- */
-int main(void)
-{
-    print_triangle(2);
-    print_triangle(10);
-    print_triangle(1);
-    print_triangle(0);
-    return (0);
+*mul - multiplies two numbers
+*@a: first number
+*@b: second number
+*Return: returns result
+*/
+
+int mul(int a, int b)                                                                         {
+return (a * b);
 }
